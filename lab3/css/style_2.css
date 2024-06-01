@@ -1,0 +1,12 @@
+.text {
+    position: absolute;
+    z-index: 2;
+    color: rgb(255, 255, 255);
+}
+
+.photo {
+    position: absolute;
+    z-index: -1;
+}
+
+
